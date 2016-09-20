@@ -7,7 +7,7 @@ def slope(x):
 
 lst = []
 k = 0.0
-while k < .20:
+while k <= .20:
 	lst.append(slope(k))
 	k = k+.1
 
